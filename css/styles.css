@@ -1,0 +1,16 @@
+body {
+  margin: 10px;
+}
+table,
+th,
+td {
+  border: 1px solid grey;
+  padding: 5px;
+  border-collapse: collapse;
+  background-color: rgba(19, 57, 107, 0.575);
+  border-radius: 10px;
+}
+.foot {
+  text-align: center;
+  background-color: grey;
+}
